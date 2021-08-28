@@ -2,11 +2,11 @@
 blockchain note
 
 ## ADD BSC TO META MASK
-Network Name: Smart Chain
-New RPC URL: https://bsc-dataseed.binance.org/
-ChainID: 56
-Symbol: BNB
-Block Explorer URL: https://bscscan.com
++ Network Name: Smart Chain
++ New RPC URL: https://bsc-dataseed.binance.org/
++ ChainID: 56
++ Symbol: BNB
++ Block Explorer URL: https://bscscan.com
 
 
 ## ADD MATIC TO META MASK
