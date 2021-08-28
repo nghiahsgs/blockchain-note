@@ -10,11 +10,11 @@ blockchain note
 
 
 ## ADD MATIC TO META MASK
-Network Name: Polygon Mainnet
-New RPC URL: https://rpc-mainnet.matic.network/
-Chain ID:  137
-Biểu tượng tiền tệ (không bắt buộc): MATIC
-Block Explorer URL (không bắt buộc): https://polygonscan.com/
++ Network Name: Polygon Mainnet
++ New RPC URL: https://rpc-mainnet.matic.network/
++ Chain ID:  137
++ Biểu tượng tiền tệ (không bắt buộc): MATIC
++ Block Explorer URL (không bắt buộc): https://polygonscan.com/
 
 ## contract USDT IN BSC
 0x55d398326f99059ff775485246999027b3197955
