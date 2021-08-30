@@ -26,6 +26,9 @@ blockchain note
 ## contract SIMBA IN MATIC (game play to earn: Simba Empire)
 0x70784d8a360491562342b4f3d3d039aaacaf8f5d
 
+## contract WANA Farmer IN BSC (game play to earn: WANA Farmer)
+0x339c72829ab7dd45c3c52f965e7abe358dd8761e
+
 ## 2 ways to swap
 + meta mask
 +  pancake swap: 11% slipping page
