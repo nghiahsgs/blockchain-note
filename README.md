@@ -29,6 +29,9 @@ blockchain note
 ## contract WANA Farmer IN BSC (game play to earn: WANA Farmer)
 0x339c72829ab7dd45c3c52f965e7abe358dd8761e
 
+## contract Monster IN BSC (game play to earn: WANA Farmer)
+0x1fe34d34ec67ef7020874a69a9dd1fb778cf9522
+
 ## 2 ways to swap
 + meta mask
 +  pancake swap: 11% slipping page
